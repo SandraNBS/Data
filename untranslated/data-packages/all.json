@@ -3,8 +3,8 @@
   "title": "All indicators",
   "resources": [
     {
-      "path": "Goal 15-1-1/data.csv",
-      "name": "Goal 15-1-1",
+      "path": "Goal_15-1-1/data.csv",
+      "name": "Goal_15-1-1",
       "profile": "tabular-data-resource",
       "scheme": "file",
       "format": "csv",
@@ -42,7 +42,7 @@
           }
         ]
       },
-      "title": "Goal 15-1-1"
+      "title": "Goal_15-1-1"
     },
     {
       "path": "1-1-1/data.csv",
